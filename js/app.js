@@ -145,7 +145,6 @@ var displayResults = function() {
   var trEl = document.createElement('tr');
   var thEl = document.createElement('th');
   var tdEl = document.createElement('td');
-
   for (var i = 0; i < Product.productArray.length; i++){
     trEl = document.createElement('tr');
 
